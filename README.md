@@ -11,7 +11,7 @@
 
 <br/>
 
-<div align="center"
+<div align="center">
   <a href="./ciel.mp4" target="_blank">
     <img src="https://via.placeholder.com/835x400.png?text=Klik+untuk+Melihat+Video" alt="Klik untuk melihat video" width="835">
   </a>
