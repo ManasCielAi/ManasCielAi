@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-  <img src="./ciel.jpg" alt="Wallpaper" width="835">
+  <img src="./ciel.png" alt="Wallpaper" width="835">
 </div>
 
 <div align="center">
