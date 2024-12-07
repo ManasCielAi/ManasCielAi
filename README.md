@@ -17,6 +17,6 @@
 
 <div align="center">
   <a href="https://github.com/ManasCielAi">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,discord,github,ai,linkedin,py,twitter,vscode" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </div>
