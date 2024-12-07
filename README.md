@@ -6,15 +6,13 @@
 <br/>
   
 <p align="center">
-  Hanya manusia biasa yang ingin menjadi luar biasa di masa depan.
+  xixixi
 </p>
 
 <br/>
 
 <div align="center">
-  <a href="./ciel.mp4" target="_blank">
-    <img src="https://via.placeholder.com/835x400.png?text=Klik+untuk+Melihat+Video" alt="Klik untuk melihat video" width="835">
-  </a>
+  <img src="./ciel.jpg" alt="Wallpaper" width="835">
 </div>
 
 <div align="center">
